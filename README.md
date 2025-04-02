@@ -1,5 +1,5 @@
 # ME-rPPG
-The official code of ME-rPPG. We implemented memory-efficient real-time step-by-step inference using ME-rPPG.
+The official code of [this paper](https://rppgdemo.kegang.wang/merppg.pdf). We implemented memory-efficient real-time step-by-step inference using ME-rPPG.
 ![image](https://github.com/user-attachments/assets/ca75b574-834f-41f2-b08e-7b2dd2602d67)
 
 ## Inference Example 
