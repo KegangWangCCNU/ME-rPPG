@@ -23,3 +23,13 @@ The following is our implemented web browser inference demo, which operates dire
 
 ## Training Framework 
 The ME-rPPG was trained on RLAP using PhysBench, with the full code coming soon. 
+
+## Citation
+```
+@article{wang2025memory,
+  title={Memory-efficient Low-latency Remote Photoplethysmography through Temporal-Spatial State Space Duality},
+  author={Wang, Kegang and Tang, Jiankai and Fan, Yuxuan and Ji, Jiatong and Shi, Yuanchun and Wang, Yuntao},
+  journal={arXiv preprint arXiv:2504.01774},
+  year={2025}
+}
+```
