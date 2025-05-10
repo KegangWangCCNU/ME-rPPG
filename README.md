@@ -19,7 +19,8 @@ while True:
 
 ## Web Browser Inference Demo
 The following is our implemented web browser inference demo, which operates directly within the browser without requiring video uploads or GPU acceleration.   
-[https://health-hci-group.github.io/ME-rPPG-demo/](https://health-hci-group.github.io/ME-rPPG-demo/) 
+Demo URL: [https://rppgdemo.kegang.wang/](https://rppgdemo.kegang.wang/)  
+Source code: [https://github.com/Health-HCI-Group/ME-rPPG-demo](https://github.com/Health-HCI-Group/ME-rPPG-demo) 
 
 ## Training Framework 
 The ME-rPPG was trained on RLAP using PhysBench, with the full code coming soon. 
