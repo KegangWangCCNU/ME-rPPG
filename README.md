@@ -2,6 +2,10 @@
 The official code of [this paper](https://rppgdemo.kegang.wang/merppg.pdf). We implemented memory-efficient real-time step-by-step inference using ME-rPPG.
 ![image](https://github.com/user-attachments/assets/ca75b574-834f-41f2-b08e-7b2dd2602d67)
 
+## Usage 
+
+The ME model is now available in [open-rppg](https://github.com/KegangWangCCNU/open-rppg).
+
 ## Inference Example 
 
 Performing step-by-step inference through the following code. 
