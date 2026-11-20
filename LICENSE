@@ -1,13 +1,22 @@
-MIT License
+FacePhys Academic Research License
+Copyright (c) 2025 FacePhys
 
-Copyright (c) 2025 汪汪
+FacePhys maintains the models and model architecture implementations.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to use, copy, modify, and redistribute this
+repository's code, pretrained weights, model artifacts, and derivatives
+solely for non-commercial academic research. Retain this copyright
+notice and license in redistributions.
+
+Commercial use requires a separate written commercial license.
+For commercial licensing and the latest models, contact:
+https://facephys.com
+
+No rights to third-party datasets, including RLAP, are granted.
+Provided without warranty or liability. Not a medical device.
+
+Please cite:
+https://neurips.cc/virtual/2026/loc/paris/poster/150724
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
