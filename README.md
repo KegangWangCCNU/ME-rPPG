@@ -1,5 +1,5 @@
 # ME-rPPG
-The official code of [this paper](https://rppgdemo.kegang.wang/merppg.pdf). We implemented memory-efficient real-time step-by-step inference using ME-rPPG.
+The official code of [this paper](https://rppgdemo.kegang.wang/merppg.pdf). We implemented memory-efficient real-time step-by-step inference using ME-rPPG. ME-rPPG is an early version of [FacePhys (NeurIPS 2026)](https://facephys.com)
 ![image](https://github.com/user-attachments/assets/ca75b574-834f-41f2-b08e-7b2dd2602d67)
 
 ## Usage 
@@ -26,8 +26,26 @@ The following is our implemented web browser inference demo, which operates dire
 Demo URL: [https://rppgdemo.kegang.wang/](https://rppgdemo.kegang.wang/)  
 Source code: [https://github.com/Health-HCI-Group/ME-rPPG-demo](https://github.com/Health-HCI-Group/ME-rPPG-demo) 
 
-## Training Framework 
-The ME-rPPG was trained on RLAP using PhysBench, with the full code coming soon. 
+## License
+
+Copyright (c) 2025 FacePhys
+
+The FacePhys models and model architecture implementations are maintained
+by [FacePhys](https://facephys.com).
+
+The code, pretrained weights, and model artifacts are available for
+non-commercial academic research, including use, modification, and
+redistribution, under the [FacePhys Academic Research License](LICENSE).
+
+Commercial use requires a separate written license.
+For commercial licensing and the latest models, contact
+[FacePhys](https://facephys.com).
+
+## Paper
+
+Please cite the FacePhys paper when using these materials in research:
+
+[FacePhys — NeurIPS 2026 paper page](https://neurips.cc/virtual/2026/loc/paris/poster/150724)
 
 ## Citation
 ```
