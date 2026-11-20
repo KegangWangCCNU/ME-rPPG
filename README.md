@@ -1,4 +1,9 @@
 # ME-rPPG
+
+> **Project status:** The original ME-rPPG paper was first posted on [April 2, 2025](https://arxiv.org/abs/2504.01774). This repository is no longer actively maintained.
+>
+> The source code remains under the [MIT License](LICENSE). The bundled ME-rPPG model files are licensed under [MIT with the same privacy requirements as FacePhys](MODEL_LICENSE.md). For a more capable model or to discuss alternative licensing terms for that model, contact the [FacePhys team](https://facephys.com/).
+
 The official code of [this paper](https://rppgdemo.kegang.wang/merppg.pdf). We implemented memory-efficient real-time step-by-step inference using ME-rPPG.
 ![image](https://github.com/user-attachments/assets/ca75b574-834f-41f2-b08e-7b2dd2602d67)
 
